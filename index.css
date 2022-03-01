@@ -9,14 +9,23 @@
 #bg5 {background-color: #52ab98;}
 
 #lspace1{ letter-spacing: 10px; }
-#lspace2{ letter-spacing: 4px; }
+#lspace2{ letter-spacing: 3px; }
 
 #size1 {height: 256px; width: 256px; border-radius: 30%; 
   border-color: black; border-style: double; border}
-#size2 {height: 150px; width: 150px;}
-#size3 {height: 100vh; width: 100vh;}
-#size4 {height: 35vh; width: 35vh;}
-#size5 {height: 95vh; width: 100vh;} 
+#size2 {height: 100px; width: 100px; border-radius: 100%; border-style: solid; border-color: black;}
+#size3 {height: 100vh; width: 100vh;} 
+#size4 {height: 30vh; width: 30vh; border-radius: 100%;}
+#size5 {height:30vh ; width: 30vh; border-style: solid; border-color: whitesmoke;border-width: 4px;} 
+#size6 {height: 90vh; width: 100vh;}
+#size7 {height: 100vh;}
+
+.carousel-item img {
+    
+    background-size: cover;
+    background-position: relative;
+}
+
 footer {
   position: fixed;
   left: 0;
