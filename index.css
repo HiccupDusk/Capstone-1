@@ -5,7 +5,7 @@
 #bg1 {background-color: #ffffff !important;}
 #bg2 {background-color: #2b6777;}
 #bg3 {background-color: #c8d8e4;}
-#bg4 {background-color: #f2f2f2;}
+#bg4 {background-color: #FFE9CF;}
 #bg5 {background-color: #52ab98;}
 
 #lspace1{ letter-spacing: 10px; }
@@ -18,7 +18,7 @@
 #size4 {height: 30vh; width: 30vh; border-radius: 100%;}
 #size5 {height:30vh ; width: 30vh; border-style: solid; border-color: whitesmoke;border-width: 4px;} 
 #size6 {height: 90vh; width: 100vh;}
-#size7 {height: 100vh;}
+#size7 {height: 95vh;}
 
 .carousel-item img {
     
