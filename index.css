@@ -13,7 +13,7 @@
 
 #size1 {height: 256px; width: 256px; border-radius: 30%; 
   border-color: black; border-style: double; border}
-#size2 {height: 100px; width: 100px; border-radius: 100%; border-style: solid; border-color: black;}
+#size2 {height: 100px; width: 100px;}
 #size3 {height: 100vh; width: 100vh;} 
 #size4 {height: 30vh; width: 30vh; border-radius: 100%;}
 #size5 {height:30vh ; width: 30vh; border-style: solid; border-color: whitesmoke;border-width: 4px;} 
@@ -21,14 +21,7 @@
 #size7 {height: 95vh;}
 
 .carousel-item img {
-    
     background-size: cover;
     background-position: relative;
 }
 
-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
